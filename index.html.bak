@@ -1,0 +1,883 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+
+    <title>TargetFan</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="assets/css/fontawesome.css">
+    <link rel="stylesheet" href="assets/css/templatemo-grad-school.css">
+    <link rel="stylesheet" href="assets/css/owl.css">
+    <link rel="stylesheet" href="assets/css/lightbox.css">
+    <link rel="stylesheet" href="assets/css/backtotop.css">
+    <link rel="stylesheet" href="assets/css/infopopup.css">
+
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.js"></script>
+
+
+  </head>
+
+<body>
+
+
+  <!--header-->
+  <header class="main-header clearfix" role="header">
+    <div class="logo">
+      <a href="#"><em>Target</em>Fan</a>
+    </div>
+    <a href="#menu" class="menu-link"><i class="fa fa-bars"></i></a>
+    <nav id="menu" class="main-nav" role="navigation">
+      <ul class="main-menu">
+        <li><a href="#section1">Strona główna</a></li>
+        <li class="has-submenu"><a href="">Menu</a>
+          <ul class="sub-menu">
+            <li><a href="#section2">Cennik</a></li>
+            <li><a href="#section3">Arsenał broni</a></li>
+            <li><a href="#section4">Zawody</a>
+            <li><a href="#section5">Bony</a></li>
+          </ul>
+        </li>
+
+        <li><a href="#section6">Kontakt</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- ***** Main Banner Area Start ***** -->
+  <section class="section main-banner" id="top" data-section="section1">
+      <video autoplay muted loop id="bg-video">
+          <source src="assets/videos/279707299_5101660076581238_5247883733088344795_n.mp4" type="video/mp4" />
+      </video>
+
+      <div class="video-overlay header-text">
+          <div class="caption">
+              <h6>Strzelnica</h6>
+              <h2><em>Target</em>Fan</h2>
+            <h6><em>Tel: 698 680 574</em></h6>
+<!--              <div class="main-button">-->
+<!--                  <div class="scroll-to-section"><a href="/">Dowiedz się więcej</a></div>-->
+<!--              </div>-->
+          </div>
+      </div>
+  </section>
+  <!-- ***** Main Banner Area End ***** -->
+  <section class="features">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-lg-3 col-12">
+          <div class="features-post second-features">
+            <div class="features-content">
+              <div class="content-show">
+                <h4><i class="fa fa-info"></i>Informacje</h4>
+              </div>
+              <div class="content-hide">
+                <p>Informacje, które warto przeczytać</p>
+                <div><a href="informacje.html">Zobacz</a></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-12">
+          <div class="features-post second-features">
+            <div class="features-content">
+              <div class="content-show">
+                <h4><i class="fa fa-photo"></i>Galeria zdjęć</h4>
+              </div>
+              <div class="content-hide">
+                <p>Zdjęcia ze strzelnicy oraz wydarzeń</p>
+                <div><a href="galeria.html">Zobacz</a></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-12">
+          <div class="features-post third-features">
+            <div class="features-content">
+              <div class="content-show">
+                <h4><i class="fa fa-book"></i>Regulamin</h4>
+              </div>
+              <div class="content-hide">
+                <p>Regulamin strzelnicy</p>
+                <a href="regulamin.html">Zobacz</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-12">
+          <div class="features-post">
+            <div class="features-content">
+              <div class="content-show">
+                <h4><i class="fa fa-bar-chart"></i>Wyniki zawodów</h4>
+              </div>
+              <div class="content-hide">
+                <p>Ranking strzelców</p>
+              <a href="wyniki.html">Zobacz</a>
+            </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <section class="section why-us2">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="section-heading">
+            <h2>O nas</h2>
+          </div>
+        </div>
+        <div class="col-md-12 text-light">
+          Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+          Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+          It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+          It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+          and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+<!--CENNIK-->
+  <section class="section courses" data-section="section2" id="section2" >
+    <div class="container-fluid" >
+      <div class="row" style="width: 70%;margin-left: 15%;">
+        <div class="col-md-12">
+          <div class="section-heading">
+            <h2>Cennik</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!--    CENNIK broni-->
+    <div class="tbl-header" >
+      <table cellpadding="0" cellspacing="0" border="0">
+        <thead>
+        <tr>
+          <th>Kaliber</th>
+          <th>BROŃ</th>
+          <th>CENA ZA 1 STRZAŁ</th>
+        </tr>
+        </thead>
+      </table>
+    </div>
+    <div class="tbl-content" >
+      <table cellpadding="0" cellspacing="0" border="0">
+        <tbody>
+        <tr>
+
+          <td>22 LR (boczny zapłon)</td>
+          <td>
+            <p class="myP">Sig Sauer 2211</p>
+            <img src="assets/arsenal/SigSauer/SigSauer1911.png" class="hide"/>
+            <p class="myP">Pistolet MARGOLIN</p>
+            <img src="assets/arsenal/Margolin/Margolin.png" class="hide"/>
+            <p class="myP">Karabinek CZ 457 Lux</p>
+            <img src="assets/arsenal/CZ%20457%20LUX/CZ_457.png" class="hide"/>
+          </td>
+          <td>	1,50 zł</td>
+        </tr>
+        <tr>
+
+          <td>9 x 19 mm</td>
+          <td>
+            <p class="myP">CZ 75B Omega</p>
+            <img src="assets/arsenal/CZ_75B_Omega/CZ_75B.png" class="hide"/>
+            <p class="myP">Glock 48</p>
+            <img src="assets/arsenal/Glock_48/Glock_48.png" class="hide"/>
+            <p class="myP">Glock 17 4 gen</p>
+            <img src="assets/arsenal/Glock_17/Glock_17.png" class="hide"/>
+            <p class="myP">Pistolet Maszynowy CZ Scorpion EVO3 S1</p>
+            <img src="assets/arsenal/CZ%20Scorpion/CZ_scorpion_EVO_3s1.png" class="hide"/>
+          </td>
+          <td>2,50 zł</td>
+        </tr>
+
+        <tr>
+          <td>357 Magnum</td>
+          <td>
+            <p class="myP">Rewolwer Smith&Wesson</p>
+            <img src="assets/arsenal/Rewolwer_S_W/Rewolwer.png" class="hide"/>
+          </td>
+          <td>3 zł</td>
+        </tr>
+
+        <tr>
+          <td>5,56 mm 223REM</td>
+          <td>
+            <p class="myP">Savage MSR-15 Patrol</p>
+            <img src="assets/arsenal/Savage_MSR/MSR.png" class="hide"/>
+            <p class="myP">AERO Precision M4E1</p>
+            <img src="assets/arsenal/Aero%20M4E1/AERO_16.png" class="hide"/>
+          </td>
+          <td>4 zł</td>
+        </tr>
+
+        <tr>
+          <td>12</td>
+          <td>
+            <p class="myP">AK 47 AKMS</p>
+            <img src="assets/arsenal/AK47/AK47.png" class="hide"/>
+            <p class="myP">KARABINEK AK GN wz.1960</p>
+            <img src="assets/arsenal/AK%20GN%20wz.%201960/AKGN.png" class="hide"/>
+          </td>
+          <td>4zł</td>
+        </tr>
+
+        <tr>
+          <td></td>
+          <td>
+            <p class="myP">Granat nasadkowy</p>
+            <img src="assets/arsenal/Granat_nasadkowy/granat_nasadkowy.png" class="hide"/>
+          </td>
+          <td>10zł</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+
+<!--    cennik ogólny-->
+    <div class="tbl-header">
+      <table cellpadding="0" cellspacing="0" border="0">
+        <thead>
+        <tr>
+          <th></th>
+          <th>1 godzina</th>
+          <th>dodatkowa tarcza</th>
+        </tr>
+        </thead>
+      </table>
+    </div>
+    <div class="tbl-content" >
+      <table cellpadding="0" cellspacing="0" border="0">
+        <tbody>
+        <tr>
+
+          <td>Osoby indywidualne z własną bronią</td>
+          <td>
+           30zł ( w cenie ochronniki słuchu i wzroku, opłata za stanowisko)
+          </td>
+          <td>2 zł</td>
+        </tr>
+
+        <tr>
+          <td> Osoby indywidualne bez pozwolenia na broń</td>
+          <td>
+           30zł ( w cenie 2 tarcze, opieka instruktora, ochronniki słuchu i wzroku, wynajem broni na czas strzelania, opłata za stanowisko)
+          </td>
+          <td>2 zł</td>
+        </tr>
+
+        <tr>
+          <td>WYNAJEM CAŁEJ OSI 25 METROWEJ ( 4 STANOWISKA)</td>
+          <td> 200 zł</td>
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>WYNAJEM CAŁEJ OSI 100 METROWEJ ( 6 STANOWISK)</td>
+          <td>
+            350 zł
+          </td>
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>WYNAJEM OBSZARU CAŁEJ STRZELNICY</td>
+          <td>
+            cena ustalana indywidualnie
+          </td>
+          <td></td>
+        </tr>
+
+
+        </tbody>
+      </table>
+    </div>
+
+
+<!--<script>-->
+<!--  $(window).on("load resize ", function() {-->
+<!--    var scrollWidth = $('.tbl-content').width() - $('.tbl-content table').width();-->
+<!--    $('.tbl-header').css({'padding-right':scrollWidth});-->
+<!--  }).resize();-->
+<!--</script>-->
+  </section>
+
+
+
+
+  <section class="section why-us" data-section="section3" id="section3">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="section-heading">
+            <h2>Arsenał broni</h2>
+          </div>
+        </div>
+        <div class="owl-carousel owl-theme"  id="carousel">
+          <div class="item">
+            <img src="assets/arsenal/Savage_MSR/MSR.png" alt="">
+            <div class="down-content">
+              <h4>Savage MSR</h4>
+              <hr>
+              <p>Nowy model Savage MSR 15 Patrol jest to krok na przód w stosunku do wielu popularnych obecnie modeli M4. Posiada ulepszoną lufę wyposażoną w komorę nabojową 223 Wylde (223Rem/5,56x45mm).<br>
+
+                Dane techniczne:<br>
+                •	Lufa: gwint 1:8" prawoskrętny; 5 bruzd; powłoka Melonite QPQ<br>
+                •	Zakończenie lufy: gwint 1/2x28 Class 3; tłumik płomienia<br>
+                •	System: gazowy (mid-length)<br>
+                •	lower i upper: kute alluminium 7075-T6, anodyzowana na czarno<br>
+                •	Przyrządy: otwarte, przód stały, tył składany(Blackhawk!)<br>
+                •	Dopychacz naboju: brak w zestawie, przystosowany<br>
+                •	Osłona okna wylotowego: w zestawie<br>
+                •	Bezpiecznik: po lewej stronie<br>
+                •	Spust: Mil-spec, single-stage, około 3,2kg<br>
+                •	Mocowania do pasa: gniazda QD (Quick Detach)<br>
+                •	Kolba: Blackhawk! KNOXX® AXIOM™, regulowana długość - 6 pozycji<br>
+                •	Przedni chwyt: z tworzywa, dwuczęściowy, gniazda M-Lok, Blackhawk!<br>
+                •	Chwyt pistoletowy: Blackhawk!
+              </p>
+            </div>
+          </div>
+
+
+          <div class="item">
+            <img src="assets/arsenal/AK%20GN%20wz.%201960/AKGN.png" alt="Course #2">
+            <div class="down-content">
+              <h4>AK GN wz.1960</h4>
+              <hr>
+                <p>Karabinek AKM na FREZOWANEJ KOMORZE zamkowej.
+                  Oryginalny karabin Fabryki Broni Radom kal. 7,62x39mm.
+                  Kolba, łoże, nakładka i oryginalny chwyt tylkny wykonane są z pięknego jednolitego bukowego drewna (nie sklejki). GN wzór 60 z regulatorem gazowym.
+                </p>
+              </div>
+          </div>
+          <div class="item">
+            <img src="assets/arsenal/AK47/AK47.png" alt="Course #3">
+            <div class="down-content">
+              <h4>AK47</h4>
+              <hr>
+              <p>Radziecki karabinek automatyczny.
+                Zmodernizowana wersja karabinka AK-47.
+                AKM jest bronią automatyczną samoczynno-samopowtarzalną.
+                Zasada działania oparta o odprowadzanie części gazów prochowych przez boczny otwór lufy (przewód skośny) łączący komorę gazową z przewodem lufy, z długim ruchem tłoka gazowego.
+                AKM strzela z zamka zamkniętego. Zamek ryglowany przez obrót.
+                Mechanizm uderzeniowy kurkowy, mechanizm spustowy z przełącznikiem rodzaju ognia.
+                Dźwignia przełącznika rodzaju ognia pełni jednocześnie rolę bezpiecznika.
+                AKM jest bronią zasilaną z magazynków 30-nabojowych.
+                Lufa gwintowana, w większości egzemplarzy zakończona urządzeniem wylotowym pełniącym rolę osłabiacza podrzutu.
+                AKM wyposażony jest w chwyt pistoletowy i łoże. Kolba stała (AKM) lub składana pod spód broni (AKMS).
+                Przyrządy celownicze mechaniczne (celownik krzywkowy z szczerbiną, nastawy do 1000 m).
+                W naszej strzelnicy odmiana AKMS ze składana kolbą oraz kolimatorem.</p>
+            </div>
+          </div>
+
+          <div class="item">
+            <img src="assets/arsenal/Aero%20M4E1/AERO_16.png" alt="Course #1">
+            <div class="down-content">
+              <h4>Aero M4E1</h4>
+              <hr>
+              <p>Wersja karabinka ar-15 została wykonana w najwyższej technologii w standardzie mil-spec.
+                W modelu zastosowano 15″ handguard oraz niskoprofilowy blok gazowy.
+                W zestawie znajdziemy również kolbę Magpul STR Stock oraz chwyt MOE grip.</p>
+            </div>
+          </div>
+
+
+          <div class="item">
+            <img src="assets/arsenal/CZ%20Scorpion/CZ%20skorpion%20Evo.png" alt="Course #4">
+            <div class="down-content">
+              <h4>CZ Scorpion</h4>
+              <hr>
+            <p>CZ SCORPION EVO3 S1 kal. 9×19 mm wersja semi-auto (półautomat na rynek cywilny) to nowoczesny pistolet maszynowy znanej i cenionej marki CZ (Ceska Zbrojovka).
+              EVO 3 znany jest ze swojej trwałości oraz niezawodności, dlatego chętnie używany jest przez siły bezpieczeństwa w wielu krajach.
+              Ergonomia użytkowania stoi na najwyższym, światowym poziomie.
+              Pistolet spełnia standardy do pracy w trudnych warunkach NATO AC 225 i D14 i TPVD 637 – 81, co świadczy o jego ponadprzeciętnej trwałości.</p>
+            </div>
+          </div>
+          <div class="item">
+            <img src="assets/arsenal/CZ%20457%20LUX/CZ_457.png" alt="">
+            <div class="down-content">
+              <h4>CZ 457 LUX</h4>
+              <hr>
+              <p>CZ 457 LUX to lekki i elegancki sztucer idealny do treningu strzeleckiego oraz do wprowadzenia młodych adeptów w tajniki strzelectwa.
+                Składna, lakierowana osada, wykonana została z drewna z orzecha włoskiego.
+                Długa lufa o standardowym przekroju i długości 63 cm, oferuje większą prędkość wylotową pocisku.
+                Wyposażona w regulowane otwarte przyrządy optyczne, pozwala na oddawanie dalekich, celnych strzałów nawet bez zamontowanej lunety celowniczej.
+                Język spustowy z regulacją siły nacisku. Magazynek w wersji pudełkowej, mieszczący 5 sztuk amunicji.</p>
+            </div>
+          </div>
+          <div class="item">
+            <img src="assets/arsenal/CZ_75B_Omega/CZ_75B.png" alt="">
+            <div class="down-content">
+              <h4>CZ 75B Omega</h4>
+              <hr>
+                <p>CZ 75 B Ω to pistolet o nowym mechanizmie spustowym.
+                  Części nowego mechanizmu spustowego zostały znacznie uproszczone, jeśli chodzi o warunki produkcji.
+                  Te części są umieszczone na łatwo wyjmowanych osiach, przy wykorzystaniu elementów blokujących.
+                  Dzięki temu demontaż i ponowna instalacja staje się prostą sprawą, którą może wykonać każdy, bez potrzeby użycia jakichkolwiek narzędzi.
+                  W konsekwencji znacznie upraszcza gruntowną konserwację pistoletu.
+                  Stosowane materiały, kształtowanie części i ich funkcjonalne połączenia wzajemne zwiększają trwałość, żywotność i niezawodność nowego mechanizmu spustowego. </p>
+            </div>
+          </div>
+          <div class="item">
+            <img src="assets/arsenal/Glock_17/Glock_17.png" alt="">
+            <div class="down-content">
+              <h4>Glock 17</h4>
+              <hr>
+              <p>Kolejna odsłona Glocka 17 Gen.4. Protoplasty wszystkich pistoletów o polimerowych szkieletach. Zachowują wszystkie zalety poprzednika posiada obecnie rozwiązania pozwalające używać broń
+                jednakowo wygodnie przez Strzelców lewo jak i praworęcznych. Zastosowanie nowej sprężyny powrotnej pozwala na lepszą kontrolę broni w trakcie prowadzenia szybkiego ognia,
+                a wymienne nakładki rękojeści pozwalają dopasować rozmiar chwytu do wielkości dłoni.
+                Niezawodność oraz mały ciężar przy dużej pojemności magazynka spowodował wielką popularność Glocka na całym świecie zarówno w służbach mundurowych jak i wśród użytkowników cywilnych.</p>
+            </div>
+          </div>
+          <div class="item">
+            <img src="assets/arsenal/Glock_48/Glock_48.png" alt="">
+            <div class="down-content">
+              <h4>Glock 48</h4>
+              <hr>
+          <p>Glock 48 9×19mm to pistolet samopowtarzalny o smukłym szkielecie zasilany z jednorządowego magazynka, dzięki czemu doskonale sprawdzi się jako broń do skrytego lub codziennego noszenia.
+            Glock 48 to wariant pistoletu G43X z przedłużoną do 106 mm lufą oraz zamkiem o długości zbliżonej do modelu G19.
+            Pomimo zmniejszenia rozmiarów pistolet cechuje się wysoką ergonomią, idealnym wyważeniem oraz bardzo wygodnym chwytem, który pasuje niemal do każdej dłoni.
+            Zamek ma odporne na zarysowania i wytarcie wykończenie PVD (Physical Vapour Deposition) w matowo-srebrnym kolorze.
+          </p>
+            </div>
+          </div>
+
+          <div class="item">
+            <img src="assets/arsenal/Margolin/Margolin.png" alt="">
+            <div class="down-content">
+              <h4>Margolin</h4>
+              <hr>
+              <p>MCM Margolin – pistolet samopowtarzalny na amunicję bocznego zapłonu 22 LR przeznaczony do prowadzenia szkolenia strzeleckiego i amatorskiego uprawiania sportów strzeleckich.
+                Skonstruowany w latach 40. XX w. przez Michaiła Margolina.
+                Działa na zasadzie odrzutu zamka swobodnego. Przyrządy celownicze są regulowane (szczerbinka w poziomie, muszka w pionie).</p>
+            </div>
+          </div>
+          <div class="item">
+            <img src="assets/arsenal/Rewolwer_S_W/Rewolwer.png" alt="">
+            <div class="down-content">
+              <h4>Rewolwer S&W</h4>
+              <hr>
+              <p>Rewolwer S&W, wersja „Security Special”  lufa o długości 4″, pojemność bębna 6 szt., kaliber .357MAG. <br>
+              Zaprezentowany w 1980 roku rewolwer ze stali nierdzewnej.<br>
+              Skonstruowany na nowym szkielecie specjalnie stworzonego do naboju 357 magnum.
+              Występuje w wersji 6 strzałowej.<br>
+              Mechanizm spustowy SA/DA z kurkiem zewnętrznym, iglica przerzutowa w szkielecie, rozładownik gwiazdkowy, regulowana szczerbina, gumowe okładziny chwytu.</p>
+            </div>
+          </div>
+
+
+          <div class="item">
+            <img src="assets/arsenal/SigSauer/SigSauer1911.png" alt="">
+            <div class="down-content">
+              <h4>Sig Sauer</h4>
+              <hr>
+              <p>Sig Sauer 1911, opracowany oraz wyprodukowany przez Niemiecką firmę Sig Sauer.
+                Sig Sauer 1911, to broń samopowtarzalna, bocznego zapłonu, kalibru .22LR.
+                Zgodnie z niemiecką solidnością, konstrukcja pistoletu wykonana jest w sposób precyzyjny, charakteryzuję się bardzo dobrą wytrwałością.
+                Broń wyposażona jest w magazynek o pojemności 10 naboi.
+              </p>
+            </div>
+          </div>
+
+          <div class="item">
+            <img src="assets/arsenal/Granat_nasadkowy/granat_nasadkowy.png" alt="">
+            <div class="down-content">
+              <h4>Granat nasadkowy</h4>
+              <hr>
+              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            </div>
+          </div>
+
+          <div class="item">
+            <img src="assets/arsenal/Strzelba_doruk_eternal/doruk.png" alt="">
+            <div class="down-content">
+              <h4>Strzelba doruk eternal</h4>
+              <hr>
+              <p>Strzelby Doruk Gladiator zdobyły na naszym rynku opinię strzelb niezawodnych i trwałych. Strzelby te są wynikiem pracy naszego sklepu i naszych klientów, ich oczekiwania i życzenia zostały zebrane w jeden model.
+                Produkcją zajmuje się firma Doruk wg naszej specyfikacji.
+                Firma Doruk jako jedyna spełniła nasze wymagania co do jakości produkcji, możliwości adaptacji i stabilności.</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+
+
+  <section class="section coming-soon" data-section="section4" id="section4">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-7 col-xs-12">
+          <div class="continer centerIt">
+            <div>
+              <h4>Najbliższe zawody odbędą się za:</h4>
+              <div class="counter">
+
+                <div class="days">
+                  <div ><p id="days" class="value2"></p></div>
+                  <span>Dni</span>
+                </div>
+
+                <div class="hours">
+                  <div><p id="hours" class="value2"></p></div>
+                  <span>Godzin</span>
+                </div>
+
+                <div class="minutes">
+                  <div ><p id="minutes" class="value2"></p></div>
+                  <span>Minut</span>
+                </div>
+
+                <div class="seconds">
+                  <div ><p id="seconds" class="value2"></p></div>
+                  <span>Sekund</span>
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-5">
+          <div class="right-content">
+
+<!--            <img src="assets/galeria/12.jpg" style="width: 100%; margin-top:10px"/>-->
+<!--                        <form id="contact" action="" method="get">-->
+<!--                          <div class="row">-->
+<!--                            <div class="col-md-12">-->
+<!--                              <fieldset>-->
+<!--                                <input name="name" type="text" class="form-control" id="name" placeholder="Imię i nazwisko" required="">-->
+<!--                              </fieldset>-->
+<!--                            </div>-->
+<!--                            <div class="col-md-12">-->
+<!--                              <fieldset>-->
+<!--                                <input name="email" type="text" class="form-control" id="email" placeholder="Twój e-mail" required="">-->
+<!--                              </fieldset>-->
+<!--                            </div>-->
+<!--                            <div class="col-md-12">-->
+<!--                              <fieldset>-->
+<!--                                <input name="phone-number" type="text" class="form-control" id="phone-number" placeholder="Numer telefonu" required="">-->
+<!--                              </fieldset>-->
+<!--                            </div>-->
+<!--                            <div class="col-md-12">-->
+<!--                              <fieldset>-->
+<!--                                <button type="submit" id="form-submit" class="button">Zapisz się na zawody</button>-->
+<!--                              </fieldset>-->
+<!--                            </div>-->
+<!--                          </div>-->
+<!--                        </form>-->
+            <div class="text-light">
+            <h1 style="opacity: 0.8; color: #85ad76">Szczegóły dotyczące zawodów zostaną ogłoszone wkrótce.</h1>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+  <!--  BONY PODARUNKOWE -->
+
+  <section class="section why-us2" data-section="section5" id="section5">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="section-heading">
+            <h2>Bony podarunkowe</h2>
+            <hr>
+            <h5 >Posiadamy w ofercie bony upominkowe idealne na urodziny, prezent świąteczny, wieczór kawalerski i na każdą inną okazję.<br>
+              Możesz również skonfigurować własny pakiet strzelecki ustalony po rozmowie telefonicznej lub bezpośrednio na strzelnicy.</h5>
+          </div>
+        </div>
+
+
+      </div>
+
+      <div class="container">
+        <ul class="cards">
+          <li class="card cards__item">
+            <div class="card__frame">
+              <div class="card__picture">
+                <img src="assets/zdjecia/logo.png" alt="" width="120">
+              </div>
+              <h2 class="card__title">Bon 150 zł</h2>
+            </div>
+            <div class="card__overlay"></div>
+            <div class="card__content">
+              <h2>Zawartość pakietu:</h2>
+              <hr>
+              <h6>5 strzałów z pistoletu SigSauer</h6>
+              <h6>10 strzałów z pistoletu CZ 75B OMEGA</h6>
+              <h6>10 strzałów z karabinka AK 47</h6>
+              <h6>10 strzałów z karabinka SAVAGE MSR 15 Patrol</h6>
+            </div>
+          </li>
+          <li class="card cards__item">
+            <div class="card__frame">
+              <div class="card__picture">
+                <img src="assets/zdjecia/logo.png" alt="" width="120">
+              </div>
+              <h2 class="card__title">Bon 200 zł</h2>
+            </div>
+            <div class="card__overlay"></div>
+            <div class="card__content">
+              <h2>Zawartość pakietu:</h2>
+              <hr>
+              <h6>10 strzałów z pistoletu Glock 17</h6>
+              <h6>10 strzałów z pistoletu CZ 75B OMEGA</h6>
+              <h6>10 strzałów z karabinka AK 47</h6>
+              <h6>15 strzałów z karabinka SAVAGE MSR 15 Patrol</h6>
+              <h6>5 strzałów ze strzelby gładkolufowej</h6>
+            </div>
+          </li>
+          <li class="card cards__item">
+            <div class="card__frame">
+              <div class="card__picture">
+                <img src="assets/zdjecia/logo.png" alt="" width="120">
+              </div>
+              <h2 class="card__title">Bon 300 zł</h2>
+            </div>
+            <div class="card__overlay"></div>
+            <div class="card__content">
+              <h2>Zawartość pakietu:</h2>
+              <hr>
+              <h6>20 strzałów z pistoletu Glock 17</h6>
+              <h6>20 strzałów z pistoletu CZ 75B OMEGA</h6>
+              <h6>15 strzałów z karabinka AK 47</h6>
+              <h6>15 strzałów z karabinka SAVAGE MSR 15 Patrol</h6>
+              <h6>10 strzałów ze strzelby gładkolufowej</h6>
+            </div>
+          </li>
+        </ul>
+      </div>
+
+
+    </div>
+  </section>
+  <!--  BONY PODARUNKOWE END-->
+
+  <script type="text/javascript">
+    var onloadCallback = function() {
+      grecaptcha.render('html_element', {
+        'sitekey' : '6LcCAfYhAAAAAFCuPGQh6BnnHiWhnQMdieRvc0Vt'
+      });
+    };
+
+    function validateRecaptcha() {
+      var response = grecaptcha.getResponse();
+      if (response.length === 0) {
+        alert("Zaznacz, że nie jesteś robotem");
+        return false;
+      } else {
+        alert("Wiadomość została wysłana");
+        return true;
+      }
+    }
+  </script>
+
+
+
+  <section class="section contact" data-section="section6" id="section6">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="section-heading">
+            <h2>Kontakt</h2>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+          <form id="fcf-form-id" class="fcf-form-class" method="post" action="contact-form-process.php" onsubmit="return validateRecaptcha();">
+            <div class="row">
+              <div class="col-md-6">
+              <div class="fcf-form-group">
+<!--                <label for="Name" class="fcf-label text-light ">Twoje imię i nazwisko</label>-->
+                <div class="fcf-input-group">
+                  <input type="text" id="Name" name="Name" class="fcf-form-control" required placeholder=" Twoje imię">
+                </div>
+              </div>
+              </div>
+              <div class="col-md-6">
+              <div class="fcf-form-group">
+<!--                <label for="Email" class="fcf-label text-light">Twój email</label>-->
+                <div class="fcf-input-group">
+                  <input type="email" id="Email" name="Email" class="fcf-form-control" required placeholder=" Twój e-mail">
+                </div>
+              </div>
+              </div>
+              <div class="col-md-12">
+              <div class="fcf-form-group">
+<!--                <label for="Message" class="fcf-label text-light">Treść wiadomości</label>-->
+                <div class="fcf-input-group">
+                  <textarea id="Message" name="Message" class="fcf-form-control" rows="6" maxlength="3000" required placeholder=" Treść wiadomości.."></textarea>
+                </div>
+              </div>
+              </div>
+              <div class="col-md-12">
+              <div class="fcf-form-group">
+                <div class="g-recaptcha" data-sitekey="6LcCAfYhAAAAAFCuPGQh6BnnHiWhnQMdieRvc0Vt"></div><br>
+                <button type="submit" id="fcf-button" class="fcf-btn fcf-btn-primary fcf-btn-lg fcf-btn-block">Wyślij wiadomość</button>
+              </div>
+              </div>
+            </div>
+          </form>
+        </div>
+        <div class="col-md-6">
+          <div id="map">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2559.8311130131538!2d22.730060428962933!3d50.08944880717991!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473c99ed66d4af17%3A0xb50afe7663360262!2sStrzelnica%20TargetFan!5e0!3m2!1sen!2spl!4v1658440589246!5m2!1sen!2spl"   width="100%" height="422px" frameborder="0" style="border:0" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+<!--    back to top-->
+    <a class="top-link hide" href="" id="js-top">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6"><path d="M12 6H0l6-6z"/></svg>
+      <span class="screen-reader-text">Back to top</span>
+    </a>
+<!---->
+
+    <a class="top-link2" href="#popup1" onclick="show()" style="text-decoration:none;">
+      <h4><i class="fa fa-info"></i></h4>
+      <h5>Dane kontaktowe</h5>
+    </a>
+    <div id="popup1" class="popup">
+      <button style="opacity: 0"></button>
+      <a class="close text-light" id="btnClose">&times;</a><hr>
+      <div class="container">
+        <div class="row" >
+          <div class="col-md-6 text-light text-left">
+            <h5> Tel:<span style="color:#85ad76"> <a href="tel:+48698680574">698 680 574</a> </span><br>
+              Email: <span style="color:#85ad76"><a href="mailto:strzelnica@targetfan.pl">strzelnica@targetfan.pl</a> </span><br>
+              <hr>
+              Godziny otwarcia w weekendy: 11:00 - 19:00.<br> W tygodniu po wcześniejszym kontakcie na podany numer.
+            </h5>
+
+          </div>
+          <div class="col-md-6 text-light text-right">
+            <h5>Wpłaty prosimy realizować na podany numer konta<hr> <br> Grzegorz Tuleja<br>PKO BP<br><span style="color:#85ad76">74 1020 4287 0000 2102 0159 7780</span></h5>
+          </div>
+        </div>
+      </div>
+    </div>
+    <a class="close-popup" onclick="hide()" ></a>
+
+  </section>
+
+  <footer>
+    <div class="container">
+      <div class="row" >
+        <div class="col-md-6 text-light text-left">
+          <p> Tel:<span style="color:#85ad76"> <a href="tel:+48698680574">698 680 574</a> </span><br>
+            Email: <span style="color:#85ad76"><a href="mailto:strzelnica@targetfan.pl">strzelnica@targetfan.pl</a> </span><br>
+            Godziny otwarcia w weekendy: 11:00 - 19:00.<br> W tygodniu po wcześniejszym kontakcie na podany numer.
+         </p>
+
+        </div>
+        <div class="col-md-6 text-light text-right">
+          <p>Wpłaty prosimy realizować na podany numer konta <br> Grzegorz Tuleja<br>PKO BP<br><span style="color:#85ad76">74 1020 4287 0000 2102 0159 7780</span></p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <!-- Bootstrap core JavaScript -->
+  <script src="assets/js/countdown.js"/>
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <script src="assets/js/isotope.min.js"></script>
+    <script src="assets/js/owl-carousel.js"></script>
+    <script src="assets/js/lightbox.js"></script>
+    <script src="assets/js/tabs.js"></script>
+    <script src="assets/js/video.js"></script>
+    <script src="assets/js/slick-slider.js"></script>
+    <script src="assets/js/custom.js"></script>
+    <script src="assets/js/backtotop.js"></script>
+   <script src="assets/js/popup.js"></script>
+
+    <script>
+        //according to loftblog tut
+        $('.nav li:first').addClass('active');
+
+        var showSection = function showSection(section, isAnimate) {
+          var
+          direction = section.replace(/#/, ''),
+          reqSection = $('.section').filter('[data-section="' + direction + '"]'),
+          reqSectionPos = reqSection.offset().top - 0;
+
+          if (isAnimate) {
+            $('body, html').animate({
+              scrollTop: reqSectionPos },
+            800);
+          } else {
+            $('body, html').scrollTop(reqSectionPos);
+          }
+
+        };
+
+        var checkSection = function checkSection() {
+          $('.section').each(function () {
+            var
+            $this = $(this),
+            topEdge = $this.offset().top - 80,
+            bottomEdge = topEdge + $this.height(),
+            wScroll = $(window).scrollTop();
+            if (topEdge < wScroll && bottomEdge > wScroll) {
+              var
+              currentId = $this.data('section'),
+              reqLink = $('a').filter('[href*=\\#' + currentId + ']');
+              reqLink.closest('li').addClass('active').
+              siblings().removeClass('active');
+            }
+          });
+        };
+
+        $('.main-menu, .scroll-to-section').on('click', 'a', function (e) {
+          if($(e.target).hasClass('external')) {
+            return;
+          }
+          e.preventDefault();
+          $('#menu').removeClass('active');
+          showSection($(this).attr('href'), true);
+        });
+
+        $(window).scroll(function () {
+          checkSection();
+        });
+    </script>
+</body>
+</html>

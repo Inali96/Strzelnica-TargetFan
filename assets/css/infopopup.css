@@ -1,0 +1,206 @@
+
+/*info popup*/
+
+
+.top-link2 {
+    transition: all 0.25s ease-in-out;
+    position: fixed;
+    top: 100px;
+    left: 20px;
+    display: inline-flex;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10%;
+    padding: 0.25em;
+    width: 80px;
+    height: 50px;
+    background-color: rgba(63, 63, 63, 0.73);
+    z-index: 1000;
+    text-align: center;
+}
+.top-link2 h5{
+    margin-top: 5px;
+    color: rgba(133, 173, 118, 0.71);
+    font-size: 13px;
+}
+.top-link2:hover h5{
+    color: rgba(0, 0, 0, 0.71);
+}
+
+.top-link2 svg {
+    fill: #000;
+    width: 24px;
+    height: 12px;
+}
+.top-link2:hover {
+    background-color: rgba(133, 173, 118, 0.66);
+    color: rgba(0, 0, 0, 0.75);
+}
+
+.top-link2:hover svg {
+    fill: rgba(0, 0, 0, 0.75);
+}
+
+
+/*inside popup*/
+
+.popup {
+    position: fixed;
+    display: block;
+    padding: 10px;
+    max-width: 50%;
+    max-height: 50%;
+    border-radius: 10px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: rgba(0, 0, 0, 0.29);
+    visibility: hidden;
+    opacity: 0;
+    /* "delay" the visibility transition */
+    -webkit-transition: opacity .5s, visibility 0s linear .5s;
+    transition: opacity .5s, visibility 0s linear .5s;
+    z-index: 1;
+    color: white;
+    font-size: 20px;
+}
+.popup:target {
+    visibility: visible;
+    opacity: 1;
+    /* cancel visibility transition delay */
+    -webkit-transition-delay: 0s;
+    transition-delay: 0s;
+}
+.popup-close {
+    position: absolute;
+    padding: 10px;
+    max-width: 500px;
+    border-radius: 10px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: rgba(255,255,255,.9);
+}
+.popup .close {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    padding: 5px;
+    color: #000;
+    transition: color .3s;
+    font-size: 2em;
+    line-height: .6em;
+    font-weight: bold;
+}
+.popup .close:hover {
+    color: #85ad76;
+}
+
+.close-popup {
+    background: rgba(0, 0, 0, 0.81);
+    cursor: default;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0;
+    visibility: hidden;
+    /* "delay" the visibility transition */
+    -webkit-transition: opacity .5s, visibility 0s linear .5s;
+    transition: opacity .5s, visibility 0s linear .5s;
+}
+.popup:target + .close-popup{
+    opacity: 1;
+    visibility: visible;
+    /* cancel visibility transition delay */
+    -webkit-transition-delay: 0s;
+    transition-delay: 0s;
+}
+
+
+/*glow*/
+@-webkit-keyframes anim-glow {
+    0% {
+        box-shadow: 0 0 #85ad76;
+    }
+    100% {
+        box-shadow: 0 0 10px 8px transparent;
+        border-width: 10px;
+    }
+}
+@keyframes anim-glow {
+    0% {
+        box-shadow: 0 0 #85ad76;
+    }
+    100% {
+        box-shadow: 0 0 10px 8px transparent;
+        border-width: 10px;
+    }
+}
+
+
+.top-link2 {
+
+    -webkit-animation: anim-glow 2s ease infinite;
+    animation: anim-glow 2s ease infinite;
+}
+
+
+.popup.show {
+    opacity: 1;
+    visibility: visible;
+    /* cancel visibility transition delay */
+    -webkit-transition-delay: 0s;
+    transition-delay: 0s;
+}
+.popup.hide {
+    background: rgba(0,0,0,.7);
+    cursor: default;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition-delay: 0s;
+    transition-delay: 0s;
+}
+.top-link2 h4 { display: none}
+
+@media screen and (max-width: 767px) {
+
+    .top-link2 {
+   display: none;
+    }
+    .top-link2 h5{
+        display: none;
+    }
+    .top-link2 h4{
+        margin-top: 5px;
+        display: block;
+        font-size: 16px;
+    }
+    .top-link2 .fa-info{
+        color: #85ad76;
+    }
+    .top-link2:hover .fa-info{
+        color: #000000;
+    }
+    .popup{
+       min-width: 98vw;
+        font-size: 14px;
+    }
+
+    .popup h5{
+        padding: 5px;
+        font-size: 13px;
+    }
+    .popup hr{
+        display: none;
+    }
+
+
+}
